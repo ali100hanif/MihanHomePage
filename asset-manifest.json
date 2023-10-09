@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MihanHomePage/static/css/main.f66056db.css",
+    "main.css": "/MihanHomePage/static/css/main.584bb115.css",
     "main.js": "/MihanHomePage/static/js/main.2f399924.js",
     "static/js/787.28cb0dcd.chunk.js": "/MihanHomePage/static/js/787.28cb0dcd.chunk.js",
     "static/media/pr1.webp": "/MihanHomePage/static/media/pr1.a15eb1e81be1515ccfaf.webp",
@@ -39,12 +39,12 @@
     "static/media/pr7.jfif": "/MihanHomePage/static/media/pr7.356ecbc48ca0a7bd62e8.jfif",
     "static/media/logo.svg": "/MihanHomePage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/MihanHomePage/index.html",
-    "main.f66056db.css.map": "/MihanHomePage/static/css/main.f66056db.css.map",
+    "main.584bb115.css.map": "/MihanHomePage/static/css/main.584bb115.css.map",
     "main.2f399924.js.map": "/MihanHomePage/static/js/main.2f399924.js.map",
     "787.28cb0dcd.chunk.js.map": "/MihanHomePage/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f66056db.css",
+    "static/css/main.584bb115.css",
     "static/js/main.2f399924.js"
   ]
 }
